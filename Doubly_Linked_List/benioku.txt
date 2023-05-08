@@ -1,0 +1,1 @@
+Cmd'yi tam ekranda açarsanız görüntü açısından düzgün bir görüntü elde edersiniz.
